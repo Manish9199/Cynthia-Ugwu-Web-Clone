@@ -1,2 +1,2 @@
 # Cynthia-Ugwu-Web-Clone
-Using the power trio of HTML, CSS, and JavaScript, we've brought Cynthia Ugwu's web presence to life in a stunning and dynamic manner. Leveraging JavaScript functionalities like mouse tracking, animations, and event listeners, we've ensured an engaging user experience throughout the site.
+Completed the Cynthia Ugwu Web Clone project using HTML, CSS, and JavaScript. Leveraged LocomotiveScroll for smooth scrolling and GSAP for captivating animations. Implemented interactive elements like mouse-following circles and dynamic image movements, ensuring an engaging user experience.
